@@ -1,3 +1,10 @@
+#Weather app
+Weather app using react, penWeather and fetch api
+# Demo
+<img src='weather.gif' width=800 height=448></img>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
