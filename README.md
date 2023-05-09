@@ -1,4 +1,4 @@
-#Weather app
+# Weather app
 Weather app using react, penWeather and fetch api
 # Demo
 <img src='weather.gif' width=800 height=448></img>
